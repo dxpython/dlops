@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 DLOps AI-Driven Operations Assistant
-Developed by Senior Engineer Charles Dong
+Developed by Senior Engineer Charles 
 """
 
 import os
