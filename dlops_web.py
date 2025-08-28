@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 DLOps AI-Driven Backend Server
-Developed by: Charles Dong <NVIDIA HPC Engineer>
+Developed by: Charles Dong 
 """
 
 import json
